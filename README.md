@@ -1,14 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nway Hlaing 👋
 
-<!--
-**Nwayhlaing11/Nwayhlaing11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Odoo Developer from Myanmar 🇲🇲 passionate about building custom modules and APIs.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 💻 Python, JavaScript
+- 🧩 Odoo (v11–17)
+- 🗄️ PostgreSQL
+- 🔗 REST APIs, Firebase
 
-- 🔭 I’m currently working on ... Kings International School
-- 🌱 I’m currently learning ... python,js
-- 👯 I’m looking to collaborate on ... more odoo development
-- 📫 How to reach me: ...nwayhlaing704@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+
+## 📊 GitHub Stats
+![Nway's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nwayhlaing11&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/nann-nway-nway-hlaing-bb732631a)
